@@ -3,7 +3,7 @@
 A native macOS menu bar app that shows the live status of every running Claude Code session on your machine, plus your claude.ai usage limit, at a glance.
 
 ```
-●●⚪⚪🟠   (left: inactive, middle: waiting for you, right: working)
+⚪⚪🟠   (left: inactive, middle: waiting for you, right: working)
 ```
 
 - Pulsing orange dot — Claude is thinking or running a tool
