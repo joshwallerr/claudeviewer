@@ -1,0 +1,18 @@
+.DS_Store
+.build/
+dist/
+Package.resolved
+.swiftpm/
+xcuserdata/
+
+# Build artifacts
+*.o
+*.a
+
+# Editor cruft
+*.swp
+.idea/
+.vscode/
+
+# Local audit / runtime files
+.ssh_mcp_audit.jsonl
